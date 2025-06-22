@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Void v10 2 222
-// @version      V10
+// @version      V10s ssd ss sds sd
 // @description  Most advanced multihack ever built
 // @match        *://starve.io/*
 // @author       Otterly
